@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there, I am Matthew Jacobs, a Software Engineer versed in many programming languages and techniques and always learning more. I work at ActiveProspect as a Web Software Developer working with Node and Angular to create awesome software that takes in internet leads, qualifies them, and sends them off to companies in the blink of an eye!
 
-### More Information
+In the seldom free time I may have, I love playing fetch with my pup, Dylan. I also love rock climbing and paddle boarding in my hometown of Austin, TX.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
